@@ -1,0 +1,32 @@
+{
+  "private": true,
+  "devDependencies": {
+    "connect-history-api-fallback": "*",
+    "del": "*",
+    "glob": "*",
+    "gulp": "*",
+    "concat-map": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-cache": "*",
+    "gulp-changed": "*",
+    "gulp-cssmin": "*",
+    "gulp-flatten": "*",
+    "gulp-if": "*",
+    "gulp-jshint": "*",
+    "gulp-load-plugins": "*",
+    "gulp-minify-html": "*",
+    "gulp-rename": "*",
+    "gulp-replace": "*",
+    "gulp-s3-upload": "*",
+    "gulp-size": "*",
+    "gulp-uglify": "*",
+    "gulp-useref": "*",
+    "gulp-vulcanize": "*",
+    "merge-stream": "*",
+    "minimist": "*",
+    "opn": "*",
+    "require-dir": "*",
+    "run-sequence": "*",
+    "vulcanize": "*"
+  }
+}
